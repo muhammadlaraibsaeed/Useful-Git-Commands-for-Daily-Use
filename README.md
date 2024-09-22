@@ -1,7 +1,7 @@
 # 🚀 Useful Git Commands for Daily Use
 
-Remove untracked files
- 
+Remove Untracked Files
+
 ```
   git clean -fd
 ```
